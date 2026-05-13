@@ -11,10 +11,11 @@
 
 ---
 
-## 🖥️ Preview
+## 🖥 Preview
+
+![VAPTBot Screenshot](VAPTBot%20screenshot.png)
 
 > Terminal-style hacker UI running in browser on Kali Linux
-
 ---
 
 ## ✨ Features
